@@ -6,7 +6,7 @@
 Welcome to my Github profile, my name is Gabriel Weindel (he/him) and I'm a cognitive scientist looking for my next project.
 
 I am mainly interested in nerdy stuff about computational models of cognition 
-(especially decision making) and Bayesian statistics. My interest goes also to cognitive deficits associated with clinical conditions such as mental illness and brain injuries as I think that, in the long tradition of neuropsychologist, care of patients goes along with advance in scientific knowledge.
+(especially decision making) and Bayesian statistics. As a trained neuropsychologist, my interest goes also to cognitive deficits associated with clinical conditions such as mental illness and brain injuries as I think that, in the long tradition of neuropsychologist, care of patients goes along with advance in scientific knowledge.
 
 To see my latest publications (academic or not) check out my website :
 
